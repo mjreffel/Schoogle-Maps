@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Schoogle Maps</string>
+    <string name="title_activity_building_finder">BuildingFinder</string>
+</resources>
