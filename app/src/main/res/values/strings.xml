@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Schoogle Maps</string>
     <string name="title_activity_building_finder">BuildingFinder</string>
+    <string name="title_activity_school_selection">SchoolSelection</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>

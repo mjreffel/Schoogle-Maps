@@ -34,6 +34,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".SchoolSelection"
+            android:label="@string/title_activity_school_selection" >
+        </activity>
     </application>
 
 </manifest>
